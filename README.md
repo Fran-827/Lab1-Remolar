@@ -11,6 +11,6 @@ An Integrated Development Environment (IDE) is a comprehensive platform that pro
 
 *Explain the role of version control systems in software projects.*
 
--The role of version control systems in software projects is to enable a team to develop a project simultaneously without conflict, as well as to track the changes or versions of the source code easily.
+The role of version control systems in software projects is to enable a team to develop a project simultaneously without conflict, as well as to track the changes or versions of the source code easily.
 
 
