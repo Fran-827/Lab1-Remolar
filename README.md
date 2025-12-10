@@ -7,14 +7,7 @@ Software development standards encompass coding standards, which include rules s
 
 *Identify at least three relevant tools used in software development.*
 
-Integrated Development Environment(IDE)
--This is a platform where developers can access the tools needed for software development. IDE typically includes a source code editor, a compiler, and a debugger
-
-Version Control System
--This tool is used to manage and track changes to the source code during the software development process.
-
-Database Management Tools
--This tool is used to enable developers to access, interact with, and manage data.
+An Integrated Development Environment (IDE) is a comprehensive platform that provides developers with essential tools for software development, including a source code editor, compiler, and debugger. In addition to IDEs, Version Control Systems are vital for managing and tracking changes to source code during the development process, facilitating collaboration and ensuring that code versions are properly maintained. Furthermore, Database Management Tools are important for enabling developers to access, interact with, and efficiently manage the data that software applications require. Collectively, these tools streamline and support the entire software development workflow.
 
 *Explain the role of version control systems in software projects.*
 
